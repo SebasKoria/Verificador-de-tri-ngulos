@@ -1,0 +1,1 @@
+Ejecutar Triangulo.exe ubicado en /bin/Release
