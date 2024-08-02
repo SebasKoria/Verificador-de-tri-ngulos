@@ -27,5 +27,8 @@ int main()
     }
     else printf("El triangulo no existe\n");
 
+    printf("\nPresione cualquier tecla para cerrar el programa...");
+    cin.ignore();
+    getchar();
     return 0;
 }
